@@ -1,0 +1,15 @@
+{
+  "name": "photon-cortex-7934",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9682,
+    "createdAt": "2026-07-11T15:00:10.229Z"
+  }
+}
